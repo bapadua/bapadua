@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=bapadua&color=006bed)
 
-<h3> :man: &nbsp;About me</h3>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 - 🤔 &nbsp; Learning new technologies focused on web applications.
 - 🎓 &nbsp; Bachelor **Information Systems(Sistemas de Informação)** at <a href="https://www.umc.br">UMC - Universidade Mogi das Cruzes</a>.
