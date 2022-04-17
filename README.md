@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=bapadua&hide=html&layout=compact&theme=default)](https://github.com/bapadua/)
+
 <!--
 **bapadua/bapadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
