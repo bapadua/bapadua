@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Learning new technologies focused on web applications.
 - 🎓 &nbsp; Bachelor **Information Systems(Sistemas de Informação)** at <a href="https://www.umc.br">UMC - Universidade Mogi das Cruzes</a>.
 - 🎓 &nbsp; Graduated Degree **Software Engineering(Engenharia de Software)** at <a href="https://www.umc.br">UMC - Universidade Mogi das Cruzes</a>.
-- 💼 &nbsp; Working as **Senior Java engineer** at <a href="https://www.actminds.com/">Actminds</a>
+- 💼 &nbsp; Working as **Kotlin/Java engineer** at <a href="https://www.actminds.com/">Actminds</a>
 
 <h3> :rocket: &nbsp; Skills </h3>
 
